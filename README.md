@@ -1,1 +1,1 @@
-# k15473
+the bot for telegram that ask you a random question on russian. The bot is suitable for small groups of friends, for entertainment purposes. The language of the questions can be changed by changing the list of questions. Bot has 139 questions.
